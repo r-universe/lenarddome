@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psp"]
+	path = psp
+	url = https://github.com/lenarddome/psp
+	shallow = true
+	registered = true
